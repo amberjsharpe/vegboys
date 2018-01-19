@@ -3,9 +3,13 @@ div {
     font: bold 20px Georgia, serif;
 }
 
-container {
+.container {
     display: flex; 
     justify-content: center;
     align-content: center;
     flex-direction: column;
+}
+
+.item {
+    display: flex;
 }
