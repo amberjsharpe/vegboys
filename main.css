@@ -1,0 +1,11 @@
+div {
+    word-spacing: 2px;
+    font: bold 20px Georgia, serif;
+}
+
+container {
+    display: flex; 
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
